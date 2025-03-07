@@ -7,9 +7,9 @@ This repository serves as a central hub for my work, showcasing my expertise in 
 ## 🛠 Tech Stack & Skills
 
 # Frontend Development:
-⚛ React.js & React Native – Building dynamic and interactive web & mobile apps
-🎨 Flutter – Crafting cross-platform mobile applications
-🍏 Swift – Developing iOS applications with seamless UI/UX
+- ⚛ React.js & React Native – Building dynamic and interactive web & mobile apps
+- 🎨 Flutter – Crafting cross-platform mobile applications
+- 🍏 Swift – Developing iOS applications with seamless UI/UX
 
 # Backend Development:
 🖥 Node.js – Creating scalable and high-performance backend services

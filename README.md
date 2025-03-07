@@ -34,6 +34,6 @@ I welcome contributions and collaborations! Feel free to:
 # 📬 Connect With Me
 - 💼 GitHub: https://github.com/Haiderali4408
 - 💬 Email: haider.ali4408@gmail.com
-🚀 Thanks for visiting my special GitHub repository! Stay tuned for exciting updates!
+# 🚀 Thanks for visiting my special GitHub repository! Stay tuned for exciting updates!
 
 
